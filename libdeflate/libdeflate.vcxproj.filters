@@ -32,7 +32,7 @@
     <ClInclude Include="lib\cpu_features_common.h">
       <Filter>lib</Filter>
     </ClInclude>
-    <ClInclude Include="lib\crc32_table.h">
+    <ClInclude Include="lib\crc32_tables.h">
       <Filter>lib</Filter>
     </ClInclude>
     <ClInclude Include="lib\crc32_vec_template.h">
